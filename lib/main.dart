@@ -32,14 +32,14 @@ void main() async {
 
   // SETTING TO WITH DEVELOPER ACCOUNT TWITTER
   BEARER_TOKEN =
-      "AAAAAAAAAAAAAAAAAAAAADUBPwEAAAAAZi%2FUlj4G2hKWijnZ%2FvkLCG0Wgy4%3DqgGplVXyncqogvY3eH194mqhgiBjJS0c4MUdOOAXM7kirePDyb"; // Fill your Bearer Token
-  CUSTOMER_KEY = "njSPlrcEq6Y43XHHNCAtnbImU"; // Fill your API KEY
+      ""; // Fill your Bearer Token
+  CUSTOMER_KEY = ""; // Fill your API KEY
   CUSTOMER_SECRET =
-      "PmLR4pxrywr4jquN9zqFw1LDKR65HWRYkc1sTTKEBuv8fqBTsR"; // Fill your API Secret
+      ""; // Fill your API Secret
   ACCESS_TOKEN =
-      "1117371474183016450-JxIUmWsXIsFjqfnGJYtaDLovtTJe5n"; // Fill your Access Token
+      ""; // Fill your Access Token
   ACCESS_TOKEN_SECRET =
-      "qZylrhr1lFsxGpbr2PMsTtI6MxA55waGaTUHyM2Wvig3Z"; // Fill your Access Token Secret
+      ""; // Fill your Access Token Secret
 
   // SETTING USER IDS
   List<String> userIds = [
